@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">F2020065163-AhmadHassankhan-VendingAppClone</string>
+    <string name="login">Login </string>
+    <string name="signup">Signup</string>
+</resources>
